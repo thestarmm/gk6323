@@ -1,0 +1,11 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "tv",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/thestarmm/gk6323/master/tv",
+      "playerType": 2
+    }
+  ]
+}
