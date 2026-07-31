@@ -2,9 +2,15 @@
   "sites": [],
   "lives": [
     {
-      "name": "tv",
+      "name": "tv1",
       "type": 0,
       "url": "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2
+    },
+    {
+      "name": "tv2",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
       "playerType": 2
     }
   ]
